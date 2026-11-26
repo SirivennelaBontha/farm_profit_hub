@@ -204,3 +204,13 @@ img.mini{width:26px;height:20px;object-fit:cover;border-radius:5px;vertical-alig
 .hvimg{width:84px;height:63px;object-fit:cover;border-radius:10px}
 .node .nimg{width:100%;max-width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:10px;margin-bottom:6px}
 @media (prefers-reduced-motion: reduce){.crop .photo img{transition:none}.crop:hover .photo img{transform:none}}
+/* Management dashboard: same look as the Team 9 Dataset 1 dashboard */
+.kpi{box-shadow:0 4px 14px rgba(20,83,45,.08);min-height:92px}
+.kpi .l{text-transform:none;letter-spacing:0;font-weight:700;font-size:12px}
+.kpi .v{font-size:23px;font-weight:800;color:#14532d}
+#dash .card{box-shadow:0 4px 14px rgba(20,83,45,.08)}
+#dash .card h3{color:#163f28;font-weight:600;font-size:16px}
+
+.kpi .kh{font-size:15px;font-weight:800;color:#14532d;margin-bottom:4px}
+.kpi.big .v{font-size:25px}
+.size .bx{font-size:26px}
